@@ -9,3 +9,6 @@
 the above positions of the system correlate directly to the below logic table.
 
 <img width="610" height="166" alt="Image" src="https://github.com/user-attachments/assets/8e127f0f-04b8-439a-b0cf-3021464873b2" />
+
+
+posible changes of this system are to implement safety backups such as a secondary method for each of the inputs so that if a malfunction occurs the system can still operate without any safety hazards that may harm people using the crossing.
