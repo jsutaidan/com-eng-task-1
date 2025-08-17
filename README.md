@@ -1,2 +1,2 @@
 # com-eng-task-1
-computer engineering task 1 repository
+this repositry is for the assignment 1 for computer engineering, the basis for this project is a train crossing logic system.
